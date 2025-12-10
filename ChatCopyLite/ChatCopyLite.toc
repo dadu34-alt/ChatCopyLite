@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: ChatCopyLite |cff00ff00(BETA)|r
+## Notes: Lightweight chat copy tool for Ascension - BETA
+## Version: 0.9-BETA build 1
+## Author: Medry
+ChatCopyLite.lua

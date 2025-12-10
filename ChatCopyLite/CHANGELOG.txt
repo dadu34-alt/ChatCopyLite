@@ -1,0 +1,8 @@
+ChatCopyLite - CHANGELOG
+
+Version: 0.9-BETA build 1
+
++ Initial working release.
++ Hover tooltip.
++ Select All feature.
++ Compatible Ascension 3.3.5.
